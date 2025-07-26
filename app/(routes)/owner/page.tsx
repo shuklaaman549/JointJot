@@ -25,7 +25,7 @@ const OwnerPage = () => {
             <a href="https://twitter.com/shuklaaman549" target="_blank" className="text-blue-500 hover:text-blue-400">
               Twitter
             </a>
-            <a href="https://instagram.com/shuklaaman549" target="_blank" className="text-blue-500 hover:text-blue-400">
+            <a href="https://instagram.com/i.amanshukla" target="_blank" className="text-blue-500 hover:text-blue-400">
               Instagram
             </a>
           </div>
